@@ -1,0 +1,24 @@
+{
+  "name": "rtsp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahabas/rtsp.git"
+  },
+  "author": "Taha Baş",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahabas/rtsp/issues"
+  },
+  "homepage": "https://github.com/tahabas/rtsp#readme",
+  "dependencies": {
+    "ffmpeg": "0.0.4",
+    "node-rtsp-stream": "0.0.9",
+    "ws": "^7.2.3"
+  }
+}
